@@ -17,13 +17,14 @@ How to work with this repository
 
 Install and run the selenium server locally on your computer.
 
-     java -jar selenium-server-standalone-3.141.59.jar -role hub
-     java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://localhost:4444/grid/register
+    java -jar selenium-server-standalone-3.141.59.jar -role hub
+    java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://localhost:4444/grid/register
 
 ## Step 2
 
-Make sore you are running the app matter of this tests at http://localhost:3000.
+Make sure you are running the app that these tests refer to at http://localhost:3000.
+You can get it in this repository https://bitbucket.org/mindera/qa-sortable-challenge.
 
 ## Step 3
 
-Run the tests and pray to god. :)
+Run the tests and enjoy :)

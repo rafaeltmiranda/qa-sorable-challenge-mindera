@@ -4,7 +4,6 @@ import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 import org.testng.Assert;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import static com.codeborne.selenide.Selectors.byText;
